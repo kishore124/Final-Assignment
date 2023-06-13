@@ -1,6 +1,7 @@
 # Final-Assignment
 Java Questions:
 (Java)
+______________________________________________________________________________________
 Total Marks: 100
 Each question 10 marks
 1. Write a Java program that uses polymorphism by defining an interface called Shape
@@ -45,8 +46,8 @@ in the List.
 
 
 (JDBC)
+_______________________________________________________________________________________
 Total Marks:50
-
 Each question 10 marks
 
 11. Write a Java program that connects to a MySQL database using JDBC. The program
@@ -69,9 +70,10 @@ in an HTML table on the web page. The servlet should use JDBC to connect to the
 database and retrieve the data.
 
 (Servlet)
+_________________________________________________________________________________________
 Total Marks: 30 marks
-
 Each question 15 marks
+
 16. Create a Java servlet that uses session management to maintain the state of the
 user across multiple requests. The servlet should store the user's name in a session
 object and display it on multiple pages of the web application.
@@ -86,6 +88,7 @@ use a servlet to retrieve the blog post data from the database and display it in
 formatted way.
 
 (Hibernate)
+___________________________________________________________________________________
 Total : 30 marks
 Each question 10 marks
 
@@ -103,6 +106,7 @@ the data in the table. After updating the data, the program should retrieve it f
 database and display it on the console.
 
 (Spring Boot)
+_______________________________________________________________________________________
 200 marks
 Each question 20 marks
 
