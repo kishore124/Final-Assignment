@@ -43,9 +43,12 @@ ensure that the queue is accessed by only one thread at a time.
 List. The program should then find the second largest and second smallest elements
 in the List.
 
+
 (JDBC)
 Total Marks:50
+
 Each question 10 marks
+
 11. Write a Java program that connects to a MySQL database using JDBC. The program
 should read data from a table and display the results in the console.
 
@@ -67,6 +70,7 @@ database and retrieve the data.
 
 (Servlet)
 Total Marks: 30 marks
+
 Each question 15 marks
 16. Create a Java servlet that uses session management to maintain the state of the
 user across multiple requests. The servlet should store the user's name in a session
@@ -101,6 +105,7 @@ database and display it on the console.
 (Spring Boot)
 200 marks
 Each question 20 marks
+
 21. Create a Spring Boot application that inserts data into a MySQL database table using
 JPA and Hibernate. The application should use Spring Data JPA to map the table to a
 Java object and then insert the data into the table.
