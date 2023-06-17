@@ -19,6 +19,7 @@ public class Producer implements Runnable {
 			while (utility.getQueue().size() <= utility.getQueueCapacity()) {
 				int randomNumber = new Random().nextInt(10);
 				System.out.println("In producer Random Number:: " +randomNumber );
+				
 				utility.set(randomNumber);
 				try {
 		            Thread.sleep(1000);
